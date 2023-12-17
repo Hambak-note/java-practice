@@ -24,6 +24,8 @@ class Thread_2 implements Runnable { //인터페이스 구현
 
     @Override
     public void run() {
-        System.out.println(Thread.currentThread().getName());//현재 실행중인 쓰레드 반환
+        for(int i = 0; i < 5; i++) {
+            System.out.println(Thread.currentThread().getName());//현재 실행중인 쓰레드 반환
+        }
     }
 }
