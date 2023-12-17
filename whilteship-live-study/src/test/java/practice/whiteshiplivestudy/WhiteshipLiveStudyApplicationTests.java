@@ -1,4 +1,4 @@
-package java.whiteshiplivestudy;
+package practice.whiteshiplivestudy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package java.whiteshiplivestudy;
+package practice.whiteshiplivestudy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
